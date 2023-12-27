@@ -1,2 +1,12 @@
 dev
+<<<<<<< HEAD
 aws,jhgchj
+java,python
+ffjkjfdfjkhg
+hklkffdjk
+=======
+aws,jhgchj
+>>>>>>> parent of b5c242d (learning)
+gkljhjhgcjk;
+fgjjl;;ljhgd
+duj;l;lkjd
