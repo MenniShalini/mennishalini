@@ -1,7 +1,6 @@
 dev
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 aws,jhgchj
 java,python
 ffjkjfdfjkhg
@@ -17,7 +16,4 @@ java,python
 ffjkjfdfjkhg
 hklkffdjk
 dfjlhggfjk
-=======
-aws,jhgchj
->>>>>>> parent of b5c242d (learning)
-bbbbbbbbbbbb
+bbb
